@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Challenge_Chaves</string>
+    <string name="stLbNome">Nome:</string>
+    <string name="stTxNome">Ex:Dona Florinda</string>
+    <string name="stLbIdade">Idade:</string>
+    <string name="stTxIdade">Ex:71</string>
+    <string name="stLbEmail">Email:</string>
+    <string name="stTxEmail">donaflor71@gmail.com</string>
+    <string name="stBtnEnviar">Enviar</string>
+</resources>
